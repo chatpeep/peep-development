@@ -1,1 +1,1 @@
-# peepchat
+# peep chat application
